@@ -19,7 +19,8 @@ export default function Header() {
             <li className="cursor-pointer">Contact</li>
             <button
               type="button"
-              className="bg-bookmark-red text-white rounded-md px-7 py-3 uppercase"
+              className="bg-bookmark-red text-white rounded-md 
+              px-7 py-3 uppercase"
             >
               Login
             </button>
